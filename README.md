@@ -4,6 +4,7 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 <div>
   <h3>I Personally Recommend installing Lickable Menu Bar from the App Store, If you want the MacOS X Aesthetic</h3>
 </div>
+
 # How to use:
 1: Download the Latest Release
 
