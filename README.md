@@ -19,5 +19,7 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 8: Set the Wallpaper to Dynamic
 
 
-# It should look like this:
-![Alt text] (https://github.com/boileh/macOS-X-Mountain-Lion-Dynamic-Wallpaper/Settings.png)
+<div align="center">
+               <h1>Settings Should Look like this</h1>
+             <img src="Settings.png" alt="Settings with the correct configs for the Wallpaper" width="256" />
+</div>
