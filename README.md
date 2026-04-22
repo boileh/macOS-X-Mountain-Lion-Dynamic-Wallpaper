@@ -40,8 +40,9 @@ Aspect Ratio: 16:10
 Times of switch: Day: 10:00am-4:59pm, Night: 5:00pm-9:59am
 
 
+[ Subscribe to me on YouTube ](https://youtube.com/@draedNSX)
 
-[Subscribe to me on YouTube](https://youtube.com/@draedNSX)    <img src="Subscribe.png" alt="[Subscribe!]" width="256" />
+  [<img src="Subscribe.png" alt="[Subscribe!]" width="128" />](https://youtube.com/@draedNSX)
 
 <div>
   Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and legally own a copy of     macOS X 10.8 Software, and don't have anything to do with apple
