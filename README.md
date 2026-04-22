@@ -30,9 +30,9 @@ A Dynamic Version of the macOS Tahoe Default Wallpaper I made :D
 
 ## Photo Info:
 
-Resolution: 3200x2000
+Resolution: 2400x2400
 
-Aspect Ratio: 16:10
+Aspect Ratio: 1:1
 
 Times of switch: Day: 10:00am-4:59pm, Night: 5:00pm-9:59am
 
