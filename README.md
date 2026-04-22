@@ -20,4 +20,4 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 
 
 # It should look like this:
-![Alt text] (Settings.png)
+![Alt text] (https://github.com/boileh/macOS-X-Mountain-Lion-Dynamic-Wallpaper/Settings.png)
