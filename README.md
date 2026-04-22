@@ -23,3 +23,8 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
                <h1>Settings should look like this:</h1>
              <img src="Settings.png" alt="Settings with the correct configs for the Wallpaper" width="720" />
 </div>
+
+
+
+
+Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and own macOS X 10.8 Software, and don't have anything to do with apple
