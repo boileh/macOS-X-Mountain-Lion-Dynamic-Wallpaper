@@ -47,7 +47,14 @@ Times of switch: Day: 10:00am-4:59pm, Night: 5:00pm-9:59am
 
 
 ## Preview:
-<img src="OS X Mountain Lion Dynamic.heic" alt="[Preview Wallpaper]" width="3200" />
+
+Dark mode:
+
+<img src="Dark.png" alt="[Dark Mode]" width="3200" />
+
+Light mode:
+
+<img src="Light.png" alt="[Light Mode]" width="3200" />
 
 <div>
   Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and legally own a copy of     macOS X 10.8 Software, and don't have anything to do with apple
