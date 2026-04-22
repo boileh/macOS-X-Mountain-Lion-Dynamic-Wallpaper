@@ -20,7 +20,7 @@ A Dynamic Version of the macOS Tahoe Default Wallpaper I made :D
 
 
 <div align="center">
-               <h1>Settings should look like this:</h1>
+               <h1>Settings should look simmilar this:</h1>
   
   [  <img src="Settings.png" alt="Settings with the correct configs for the Wallpaper" width="720" /> ](https://raw.githubusercontent.com/boileh/macOS-X-Mountain-Lion-Dynamic-Wallpaper/refs/heads/main/Settings.png)
 </div>
