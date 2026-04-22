@@ -31,4 +31,13 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 
 
 
+## Photo Info:
+
+Resolution: 3200x2000
+Aspect Ratio: 16:10
+Times of switch: Day: 10:00am-4:59pm, Night: 5:00pm-9:59am
+
+<div>
+  
+</div>
 Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and legally own a copy of macOS X 10.8 Software, and don't have anything to do with apple
