@@ -10,3 +10,6 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 6: Find OS X Mountain Lion Dynamic.heic
 7: Use as Wallpaper
 8: Set the Wallpaper to Dynamic
+
+# It should look like this:
+![Alt text] (Settings.png)
