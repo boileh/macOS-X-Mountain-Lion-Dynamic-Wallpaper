@@ -21,5 +21,5 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 
 <div align="center">
                <h1>Settings Should Look like this</h1>
-             <img src="Settings.png" alt="Settings with the correct configs for the Wallpaper" width="256" />
+             <img src="Settings.png" alt="Settings with the correct configs for the Wallpaper" width="1080" />
 </div>
