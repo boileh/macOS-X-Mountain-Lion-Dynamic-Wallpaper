@@ -27,4 +27,4 @@ A Dynamic Version of the OS X Mountain Lion Default Wallpaper I made :D
 
 
 
-Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and own macOS X 10.8 Software, and don't have anything to do with apple
+Disclaimer: I do not own these images, they are property of Apple, and i have only provided a modified copy of it, and i own a copy of these images, and legally own a copy of macOS X 10.8 Software, and don't have anything to do with apple
